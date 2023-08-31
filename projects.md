@@ -6,7 +6,7 @@ title: Projects
 
 Lastest Update: 27th Aug 2023&nbsp; 
 
-## 室内场景生成研究工作
+## hunman centric indoor scence 
 
 ​		在山东大学计算机学院交叉研究中心从事于室内场景生成相关方面的研究工作，导师为李曼祎副研究员和屠长河教授。主要工作内容为以人为中心的室内场景生成。
 
@@ -28,7 +28,7 @@ Lastest Update: 27th Aug 2023&nbsp;
 4. Generating indoor scenes guided by the paths.
 
 
-![image-20230710204911136](C:\Users\90302\AppData\Roaming\Typora\typora-user-images\image-20230710204911136.png)
+![image-20230710204911136](.\images\project\hunman_centirc.png)
 
  
 
@@ -42,7 +42,7 @@ Lastest Update: 27th Aug 2023&nbsp;
 
 本项目是一款智慧互联网家装APP，总体可以分为四大模块共7项功能，如下图所示。
 
-![image-20230710230416628](C:\Users\90302\AppData\Roaming\Typora\typora-user-images\image-20230710230416628.png)
+![image-20230710230416628](images\project\xinanzu.png)
 
 这里选取其中部分主要功能介绍。
 
@@ -66,7 +66,7 @@ Lastest Update: 27th Aug 2023&nbsp;
 
    3.使用duffision模型，结合**特征向量**。迭代优化房间中家具摆放。
 
-   <img src="C:\Users\90302\AppData\Roaming\Typora\typora-user-images\image-20230710231243143.png" alt="image-20230710231243143" style="zoom:50%;" />
+   <img src="images\project\duffision.png" alt="image-20230710231243143" style="zoom:50%;" />
 
 2. 家具保养
 
@@ -77,7 +77,7 @@ APP可以通过家中的摄像头以及环境的温度湿度传感器收集信�
 **技术实现:**
 
 ​		我们通过参考专业文献,以及相关固定国家标准, 制定了家具评估规则, 以及对应的保养策略.使用过程中,通过传感器收集环境信息,并使用摄像头拍摄家具，进行异常检测,综合分析家具状态。 其中异常检测算法,我们使用了开源的PatchCore算法, 算法可以接受一张图片为输入,判断图片中的异常区域,并输出图片异常的置信度, 其工作结果如下所示
-<img src="C:\Users\90302\AppData\Roaming\Typora\typora-user-images\image-20230710232955622.png" alt="image-20230710232955622" style="zoom:50%;" /> 
+<img src="images\project\patchcore.png" alt="image-20230710232955622" style="zoom:50%;" /> 
 
 
 
