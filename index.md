@@ -4,15 +4,15 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<!-- <img src="https://caihanlin.com/rightbig.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Hanlin Cai (Lance, [蔡汉霖](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Yuwen Hao ([郝御文](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf).
+I am a senior student majoring in **computer science and technonlogy** at Shandong University.  advised by [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Dr.Manyi Li](https://manyili12345.github.io/). Here is [my CV](https://whitesweater.github.io/file/CV-ENG.pdf).
 
 <br>
 
-## Academic Background
+<!-- ## Academic Background
 
 **<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
 
@@ -21,7 +21,7 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 - **June 2022 - Nov 2022:** Cambridge University (Visiting)
 - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
 
-<br>
+<br> -->
 
 ---
 
