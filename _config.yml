@@ -10,6 +10,7 @@ owner:
   avatar: avatar.jpg
  # bio:
   email: haoyuwen@mail.sdu.edu.cn
+
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
   # facebook: caihanlin2002
@@ -37,8 +38,9 @@ links:
 
   - title: Publications
     url: /publications/
+
   - title: Projects
-    url: /projects
+    url: /projects/
 
   - title: Awards
     url: /awards/
