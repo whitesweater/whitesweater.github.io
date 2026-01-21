@@ -8,9 +8,6 @@ layout: page
 
 Here is **Yuwen Hao ([郝御文])**.
 
-
-
-
 <br>
 
 <!-- ## Academic Background
@@ -23,7 +20,6 @@ Here is **Yuwen Hao ([郝御文])**.
 - Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
 
 <br> -->
-
 
 ---
 

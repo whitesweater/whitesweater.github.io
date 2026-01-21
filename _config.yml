@@ -10,9 +10,7 @@ url: https://whitesweater.github.io
 #  AUTHOR / PROFILE DATA
 # --------------------------------------------------
 owner:
-
   name: Yuwen Hao
-  avatar: avatar.jpg
  # bio:
   email: haoyuwen@mail.sdu.edu.cn
 
@@ -31,16 +29,13 @@ owner:
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
 # google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
-=======
 
 # --------------------------------------------------
 #  SEARCH-ENGINE VERIFICATION & ANALYTICS
 # --------------------------------------------------
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 # google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
->>>>>>> upstream/main
-
 
 # --------------------------------------------------
 #  TOP NAVIGATION BAR
@@ -110,41 +105,5 @@ kramdown:
 # --------------------------------------------------
 #  DISQUS COMMENT SYSTEM
 # --------------------------------------------------
-disqus:
-  shortname: lancecai
 
-
-<<<<<<< HEAD
 # Latest update in 2023/08/28 by Yuwen Hao.
-=======
-# include: [".htaccess"]
-# exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
-
-# --------------------------------------------------
-#  INCLUDE / EXCLUDE Lists
-# --------------------------------------------------
-include: [".htaccess"]           # Files to force-include in the build
-exclude:                         # Folders/files ignored during build
-  - "lib"
-  - "config.rb"
-  - "Capfile"
-  - "config"
-  - "log"
-  - "Rakefile"
-  - "Rakefile.rb"
-  - "tmp"
-  - "less"
-  - "minimal-mistakes.sublime-project"
-  - "minimal-mistakes.sublime-workspace"
-
-
-# --------------------------------------------------
-#  OPTIONAL PLUG-INS (uncomment once gems are added)
-# --------------------------------------------------
-plugins:
-  - jekyll-feed          # Auto-generate RSS feed
-  - jekyll-sitemap       # Auto-generate sitemap.xml
-  - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
-#   - jekyll-picture-tag   # Responsive images & WebP/AVIF
-  # - jekyll-archives      # Year/month archive pages
->>>>>>> upstream/main
