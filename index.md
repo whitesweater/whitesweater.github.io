@@ -6,9 +6,10 @@ layout: page
 
 <!-- <img src="https://caihanlin.com/rightbig.jpg" class="floatpic" width="360" height="480"> -->
 
-Here is **Yuwen Hao ([郝御文](https://caihanlin.com/file/蔡汉霖简历.pdf))**.
+Here is **Yuwen Hao ([郝御文])**.
 
-I am a senior student majoring in **computer science and technonlogy** at Shandong University.  advised by [Prof. Changhe Tu](http://irc.cs.sdu.edu.cn/~chtu/index.html) and [Dr.Manyi Li](https://manyili12345.github.io/). Here is [my CV](https://whitesweater.github.io/file/CV-ENG.pdf).
+
+
 
 <br>
 
@@ -23,16 +24,6 @@ I am a senior student majoring in **computer science and technonlogy** at Shando
 
 <br> -->
 
----
-
-## Research Interests
-
-- Computer Graphs
-- computer design
-
-My research focuses on Computer Graphics and Computer Vision. Specifically, I'm interested in 3D content creation and understanding of scenes. 
-
-<br>
 
 ---
 
