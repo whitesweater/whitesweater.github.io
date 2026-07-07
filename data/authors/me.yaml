@@ -11,9 +11,9 @@ name:
 postnominals: []
 status:
   icon: "🎓"
-role: MSc Student in Artificial Intelligence
+role: MPhil Student in Artificial Intelligence
 bio: |
-  I am a research master's student in Artificial Intelligence at the Hong Kong
+  I am an MPhil student in Artificial Intelligence at the Hong Kong
   University of Science and Technology (Guangzhou), working with Assistant
   Professor Menglin Yang in DIGAI Lab. My current research focuses on continuous
   latent-space reasoning, implicit chain-of-thought reasoning, and language
@@ -39,12 +39,12 @@ interests:
   - AI Systems
 
 education:
-  - degree: MSc Artificial Intelligence
+  - degree: MPhil in Artificial Intelligence
     institution: Hong Kong University of Science and Technology (Guangzhou)
     start: 2025-08-01
     end: 2027-07-31
     summary: |
-      Research master's student with full scholarship in DIGAI Lab. Advised by
+      MPhil student with full scholarship in DIGAI Lab. Advised by
       Assistant Professor Menglin Yang. Research direction: continuous
       latent-space reasoning and implicit chain-of-thought reasoning.
   - degree: BEng Computer Science and Technology
