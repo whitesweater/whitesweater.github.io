@@ -1,15 +1,17 @@
 ---
-title: PyTorch
-date: 2023-10-26
+title: Generative PCG for 3D City Scenes
+date: 2024-06-01
 links:
   - type: site
-    url: https://github.com/pytorch/pytorch
+    url: ""
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Procedural Content Generation
+  - Generative AI
+  - Game Technology
 ---
 
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
+Prototype pipeline for generating large-scale 3D city scenes with real road data, diffusion models, geometric normalization, and Transformer-based layout generation.
 
 <!--more-->
+
+At Tencent IEG, I worked on a generative-AI PCG prototype for open-world city maps. The pipeline extracts OpenStreetMap road networks, trains a diffusion model for high-fidelity main-road generation, normalizes city blocks through geometric deformation, and generates data-driven 3D building layouts.

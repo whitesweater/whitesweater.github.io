@@ -1,15 +1,17 @@
 ---
-title: scikit-learn
-date: 2023-10-26
+title: dcflow Data Platform and GPU Scheduling
+date: 2025-07-01
 links:
   - type: site
-    url: https://github.com/scikit-learn/scikit-learn
+    url: ""
 tags:
-  - Hugo
-  - HugoBlox
-  - Markdown
+  - Backend Systems
+  - Data Platform
+  - GPU Scheduling
 ---
 
-scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.
+Backend engineering work on billion-scale question-data workflows, nearline GPU scheduling, and automated large-model deployment.
 
 <!--more-->
+
+At Zuoyebang Education Technology, I built the dcflow data platform covering ingestion, answer refinement, and publishing for billion-scale question data. I also developed an offline GPU resource scheduling platform and contributed to an automated deployment pipeline integrating quantization, pressure testing, encryption, and grayscale release.

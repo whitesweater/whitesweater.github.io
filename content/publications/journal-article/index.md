@@ -1,63 +1,54 @@
 ---
-title: "An example journal article"
+title: "SynWeaver: Website-Prior Task and Trajectory Co-Synthesis for Web Agents"
 authors:
+- Ruitao Wang
 - me
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+- Menglin Yang
+author_notes: []
+date: "2026-01-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2026-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["article"]
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
-  name: "Journal of Source Themes"
-  volume: 1
-  issue: 1
+  name: "Under review at EMNLP 2026"
+  short_name: "EMNLP 2026"
 
-peer_reviewed: true
+peer_reviewed: false
 open_access: true
-license: CC-BY-4.0
+license: ""
 
 # Awards, honors, and recognitions. Surfaced as badges on the page and in listings.
 # Note: a Test of Time award years after publication uses an explicit `date` that differs from the page date.
-awards:
-  - name: "Test of Time Award"
-    level: winner
-    date: "2025"
-    note: "Awarded for sustained impact 10 years after publication."
-  - name: "Editor's Choice"
-    level: featured
+awards: []
 
-funding:
-  - funder: "National Science Foundation"
-    grant: "NSF-1234567"
+funding: []
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: SynWeaver studies website-prior task and trajectory co-synthesis for web agents, aiming to generate task and interaction trajectories that better reflect website structure and executable web-agent behavior.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Website-prior task and trajectory co-synthesis for web agents.
 
 tags:
-- Source Themes
+- Web Agents
+- Task Synthesis
+- Trajectory Synthesis
 featured: false
 
 hugoblox:
-  ids:
-    arxiv: 1512.04133v1
+  ids: {}
 
 links:
   - type: pdf
-    url: http://arxiv.org/pdf/1512.04133v1
+    url: ""
   - type: code
-    url: https://github.com/HugoBlox/kit
+    url: ""
   - type: dataset
     url: ""
   - type: poster
@@ -65,7 +56,7 @@ links:
   - type: project
     url: ""
   - type: slides
-    url: https://www.slideshare.net/
+    url: ""
   - type: source
     url: ""
   - type: video
@@ -94,9 +85,6 @@ slides: ""
 ---
 
 > [!NOTE]
-> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+> This paper is currently under review.
 
-> [!NOTE]
-> Create your slides in Markdown - click the *Slides* button to check out the example.
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+SynWeaver focuses on co-synthesizing web-agent tasks and trajectories with website-level priors, supporting more grounded evaluation and training data construction for web navigation agents.

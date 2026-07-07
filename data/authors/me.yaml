@@ -2,115 +2,154 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Yuwen Hao
+  given: Yuwen
+  family: Hao
+  alternate: '郝御文'  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  pronouns: ''
+postnominals: []
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🎓"
+role: MSc Student in Artificial Intelligence
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am a research master's student in Artificial Intelligence at the Hong Kong
+  University of Science and Technology (Guangzhou), working with Assistant
+  Professor Menglin Yang in DIGAI Lab. My current research focuses on continuous
+  latent-space reasoning, implicit chain-of-thought reasoning, and language
+  model reasoning systems.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Hong Kong University of Science and Technology (Guangzhou)
+    url: https://www.hkust-gz.edu.cn/
+  - name: DIGAI Lab
+    url: ""
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
+    url: mailto:yhao481@connect.hkust-gz.edu.cn
+    label: Email
   - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://github.com/whitesweater
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Implicit Chain-of-Thought Reasoning
+  - Continuous Latent-Space Reasoning
+  - Language Model Reasoning
+  - AI Systems
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: MSc Artificial Intelligence
+    institution: Hong Kong University of Science and Technology (Guangzhou)
+    start: 2025-08-01
+    end: 2027-07-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Research master's student with full scholarship in DIGAI Lab. Advised by
+      Assistant Professor Menglin Yang. Research direction: continuous
+      latent-space reasoning and implicit chain-of-thought reasoning.
+  - degree: BEng Computer Science and Technology
+    institution: Shandong University
+    start: 2020-09-01
+    end: 2024-06-30
+    summary: |
+      Outstanding graduate of Shandong University. Recipient of academic
+      scholarships and other university honors.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research Intern
+    org: China Mobile Jiutian Research Institute
+    start: 2026-01-01
+    end: 2026-03-31
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Researched implicit chain-of-thought reasoning in end-to-end Deep Research
+      systems, improving how large models use complex process information
+      during implicit reasoning. Designed and implemented an Effective Rank
+      strategy to mitigate latent token representation collapse and expand
+      latent-state representation space.
+  - role: Backend Development Engineer
+    org: Zuoyebang Education Technology (Beijing) Co., Ltd.
+    start: 2024-07-01
+    end: 2025-07-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Built the dcflow data platform for billion-scale question data workflows,
+      including ingestion, answer refinement, and publishing. Developed an
+      offline GPU resource scheduling platform and contributed to automated
+      large-model deployment pipelines.
+  - role: Elite Program Intern, IEG Interactive Entertainment Group
+    org: Tencent Computer Systems Co., Ltd.
+    start: 2024-01-01
+    end: 2024-06-30
+    summary: |
+      Built a generative-AI PCG prototype pipeline for large-scale 3D city game
+      scenes. Used OpenStreetMap road data, diffusion-based road generation,
+      geometric normalization, and Transformer-based 3D layout generation to
+      automate scene construction.
+  - role: Member
+    org: Shandong University Media Center
+    start: 2020-10-01
+    end: 2023-06-30
+    summary: |
+      Produced photography and visual design for campus activities, official
+      university channels, and large events.
+  - role: Member
+    org: Shandong University Student Union Media Publicity Center
+    start: 2021-06-01
+    end: 2022-06-30
+    summary: |
+      Worked on large-event publicity, completed 20+ posters and creative
+      designs, and participated in training new members.
 
 skills:
   - name: Technical Skills
     items:
       - label: Python
-        level: 5
+        level: 4
       - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
+        level: 4
+      - label: Language Model Reasoning
+        level: 4
+      - label: Backend Systems
         level: 4
   - name: Research & Communication
     items:
       - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
         level: 4
-      - label: Grant Proposals
+      - label: Technical Documentation
         level: 4
+      - label: Visual Design
+        level: 3
 
 languages:
-  - name: English
+  - name: Chinese
     level: 5
     label: Native
-  - name: Spanish
+  - name: English
     level: 4
-    label: Fluent
+    label: Working proficiency
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Future Star of Intelligent Base
+    awarder: Ministry of Education and Huawei
+    date: "2023-01-01"
+    summary: Awarded by the "Intelligent Base" program.
+    icon: hero/trophy
+  - title: National Encouragement Scholarship
+    awarder: Ministry of Education of China
+    date: "2023-01-01"
+    icon: hero/trophy
+  - title: Outstanding Graduate
+    awarder: Shandong University
+    date: "2024-06-01"
+    icon: hero/trophy
+  - title: National Third Prize, National Software Innovation Competition
+    awarder: National Software Innovation Competition
+    date: "2023-01-01"
+    icon: hero/trophy
+  - title: Provincial Second Prize, China Undergraduate Mathematical Contest in Modeling
+    awarder: CUMCM
+    date: "2023-01-01"
+    icon: hero/trophy
+  - title: Academic Scholarship
+    awarder: Shandong University
+    date: "2023-01-01"
     icon: hero/trophy

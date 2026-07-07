@@ -1,8 +1,8 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ''
-summary: ''
-date: 2022-10-24
+summary: 'AI research, publications, projects, and writing by Yuwen Hao.'
+date: 2026-07-07
 type: landing
 
 sections:
@@ -16,9 +16,9 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
+        about: 'About'
+        education: 'Education'
+        interests: 'Interests'
     design:
       # Use the new Gradient Mesh which automatically adapts to the selected theme colors
       background:
@@ -35,14 +35,14 @@ sections:
         shape: circle # Options: circle (default), square, rounded
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I work on implicit chain-of-thought reasoning, continuous latent-space reasoning, and language model reasoning systems.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        My current projects study how latent tokens behave during multi-step reasoning, how to stabilize continuous reasoning trajectories, and how to improve the representational capacity of implicit reasoning.
 
-        Please reach out to collaborate 😃
+        This site collects my publications, research projects, technical notes, and selected writing.
     design:
       columns: '1'
   - block: collection
