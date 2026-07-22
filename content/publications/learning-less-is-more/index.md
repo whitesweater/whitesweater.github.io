@@ -12,8 +12,8 @@ date: "2026-01-01T00:00:00Z"
 publishDate: "2026-01-01T00:00:00Z"
 publication_types: ["article"]
 publication:
-  name: "Under review at NeurIPS 2026"
-  short_name: "NeurIPS 2026"
+  name: "Under Review"
+  short_name: "Under Review"
 peer_reviewed: false
 open_access: true
 license: ""

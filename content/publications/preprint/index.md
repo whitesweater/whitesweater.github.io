@@ -21,8 +21,8 @@ open_access: true
 license: ""
 
 publication:
-  name: "Under review at EMNLP 2026"
-  short_name: "EMNLP 2026"
+  name: "Under Review"
+  short_name: "Under Review"
 
 funding: []
 

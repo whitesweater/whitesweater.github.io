@@ -26,8 +26,8 @@ publication_types: ['article']
 
 # Publication metadata — structured fields used by citation styles and BibTeX export.
 publication:
-  name: "Under review at NeurIPS 2026"
-  short_name: "NeurIPS 2026"
+  name: "Under Review"
+  short_name: "Under Review"
 
 peer_reviewed: false
 open_access: true
