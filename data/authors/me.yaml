@@ -15,7 +15,8 @@ role: MPhil Student in Artificial Intelligence
 bio: |
   I am an MPhil student in Artificial Intelligence at the Hong Kong
   University of Science and Technology (Guangzhou), working with Assistant
-  Professor Menglin Yang in DIGAI Lab. My current research focuses on continuous
+  Professor [Menglin Yang](https://yangmenglinsite.github.io/) in DIGAI Lab.
+  My current research focuses on continuous
   latent-space reasoning, implicit chain-of-thought reasoning, and language
   model reasoning systems.
 
@@ -45,7 +46,8 @@ education:
     end: 2027-07-31
     summary: |
       MPhil student with full scholarship in DIGAI Lab. Advised by
-      Assistant Professor Menglin Yang. Research direction: continuous
+      Assistant Professor [Menglin Yang](https://yangmenglinsite.github.io/).
+      Research direction: continuous
       latent-space reasoning and implicit chain-of-thought reasoning.
   - degree: BEng Computer Science and Technology
     institution: Shandong University
